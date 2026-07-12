@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://proxykingdom.com
 common:
+  - type: DomainSecurity
+    url: security/proxykingdom-domain-security.yml
   - type: Website
     url: https://proxykingdom.com
   - type: PublicAPIsListing
