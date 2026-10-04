@@ -39,7 +39,6 @@ apis:
   - name: ProxyKingdom
     description: "Rotating Proxy API that produces a working proxy on every request"
     humanURL: https://proxykingdom.com
-    baseURL: https://proxykingdom.com
     tags:
       - Development
     properties:
